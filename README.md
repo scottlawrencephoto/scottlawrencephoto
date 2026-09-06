@@ -1,16 +1,13 @@
-## Hi there 👋
+## Scott Lawrence
 
-<!--
-**scottlawrencephoto/scottlawrencephoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Headshot photographer and videographer in Troy, Michigan.
+I run [Headshots by Scott Lawrence](https://scottlawrencephoto.com).
 
-Here are some ideas to get you started:
+This account is where I keep the small tools I build to run
+the studio or to experiment with ideas. I'm not a developer by trade,
+I just got tired of doing things by hand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly Python and a little front-end. Expect scripts, not software.
+
+- Site: https://scottlawrencephoto.com
+- Based in metro Detroit
